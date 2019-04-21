@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	background-color: #212121;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	font-family: 'Roboto Mono', sans-serif;
+}
+
+header {
+	background-color: #000;
+	color: #757575;
+	width: 100%;
+	padding: 2% 7%;
+	font-family: 'Roboto Mono', sans-serif;
+	font-weight: bold;
+	position: fixed;
+	top: 0;
+}
+
+nav {
+	background-color: #757575;
+	margin: 30% 5%;
+	padding : 4% 3% 4% 6%;
+	width: 80%;
+	font-size: 0.8em;
+}
+
+code {
+	color: #000;
+	font-size: 1.2em;
+	font-weight: 800;
+}
+
+article {
+	margin: 50% 5%;
+	color: #fff;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+}
+
+#season {font-size: 2em;}
+
+section {
+	margin: 5%;
+	color: #aaa;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.1em;
+}
+
+section span a {font-size: 0.8em;}
+
+div {
+	text-align: right;
+	margin: 15% 5%;
+}
+
+div a {
+	display: inline-block;
+	background-color: #757575;
+	padding: 4% 6%;
+	font-size: 0.8em;
+}
+
+#prev {margin: 0 5%;}
+
+footer {
+	background-color: #000;
+	color: #757575;
+	padding: 5%;
+	font-family: 'Roboto Mono', sans-serif;
+	font-size: 0.8em;
+}
+
+footer p b {
+	color: #fff;
+	font-weight: 400;
+}
+
+#right {font-size: 0.8em;}
